@@ -42,12 +42,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
 * Power BI
 * Microsoft Excel
-* Slack
 * Python (Colab)
-* Mysql
+  
 
 
 
@@ -70,8 +68,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 27/04/2026 | concluído  | [MVP](MVP/sp1.md)  |
+| 02                | 22/05/2026 | concluído  | [MVP](MVP/sp2.md)  |
+| 03                | 15/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 25/06/2026 | a fazer  | [MVP](#)  |
 
