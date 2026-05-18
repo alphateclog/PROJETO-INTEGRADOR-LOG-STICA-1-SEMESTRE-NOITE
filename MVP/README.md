@@ -5,10 +5,8 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Através do power BI iremos separar os municípios e analisar pelos gráficos as informações e detalhar os problemas encontrados 
+
 
 ---
 
