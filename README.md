@@ -11,7 +11,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
@@ -52,13 +51,26 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+| Rank | Prioridade | User Story                                                                                                                                              | status | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 1    | Alta       | Como analista, quero filtrar os dados de exportação e importação para trabalhar com as informações relevantes                                                    | concluido  | 1      |
+| 2    | Alta       | Como analista, quero organizar os dados por municípios de SP para facilitar consultas regionais                                                                    | concluido | 1      |
+| 3    | Alta       | Como analista, quero comparar São José dos Campos com outras cidades desenvolvidas para entender sua posição                                               | concluido        | 2      |
+| 4   | Alta       | Como analista, quero saber quais municipios tem aumentado a exportação e importaçõa de produtos específicos                                                | concluido      | 2      |
+
+| 5    | Alta       | Como analista, quero visualizar a evolução mensal dos dados para identificar padrões de crescimento                                               | concluido       | 2      |
+
+| 6    | Alta       | Como analista, quero saber se a exportação e importação destes municipios tem os produtos diversificados ou são focados em nichos especificos                                              
+| concluido      | 2      |
+
+| 7    | Alta       | Como analista, quero identificar quais são as principais vias para exportação e importação, como isso pode afetar os custos e a eficiencia logistica                                                
+| em andamento | 3      |
+
+| 8    | Alta       | Como analista, quero identificar problemas estratégicos e propor soluções baseadas nos dados                                               | em andamento | 3      |
+
+| 9    | Alta       | Como usuário final, quero visualizar os dados em um dashboard intuitivo para facilitar a análise                                               | em andamento | 3      |
+
+| 10   | Alta     | Como analista, quero garantir a qualidade dos dados para evitar erros na entrega final     | em andamento | 3      |
 
 
 
