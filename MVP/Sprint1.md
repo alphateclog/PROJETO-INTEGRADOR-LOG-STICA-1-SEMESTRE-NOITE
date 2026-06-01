@@ -1,4 +1,4 @@
-# 📌 MVP - [Alphatec_Logistics]
+  # 📌 MVP - [Alphatec_Logistics]
 
 ## 🎯 Objetivo do MVP
 > Nosso objetivo é filtrar os dados de importação e exportação para trabalhar com as informações relevantes; também queremos organizar os dados por municípios do estado de São Paulo para facilitar consultas regionais 
@@ -17,30 +17,29 @@
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
+| ID  | User Story                                                                 | Prioridade | Sprint |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como analista, quero filtrar os dados de exportação e importação para trabalhar com as informações relvantes.         | Alta       | 1   |
+| US2 | Como analista, quero organizar os dados por municipios de São Paulo para facilitar consultas regionais.         | Alta      | 1   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Filtrar e separar os dados do ComexStat dos ultimos 5 anos                       | Concluído|
+| 02     | Criar tabelas focadas apenas nos municípios do estado de São Paulo                           | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
-
+- O MVP deve permitir que o usuário consig visualizar as tabelas dos dados filtrados dos ultimos 5 anos do estado de São Paulo.  
+- O sistema deve registrar as tabelas dos dados de exportação e importação dos municipios de São Paulo
+- Métricas coletadas: 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
+- Número de usuários que testaram o MVP 
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
