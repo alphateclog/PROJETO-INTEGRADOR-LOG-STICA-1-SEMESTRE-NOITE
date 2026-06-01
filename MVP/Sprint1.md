@@ -5,7 +5,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Através do power BI iremos filtrar e separar os dados do ComexStat dos últimos 5 anos
+> Através do power BI iremos filtrar e separar os dados do ComexStat dos últimos 5 anos e remover os dados irrelevantes e estruturar o dataset; criar tabelas focadas apenas nos municipios do estado de São Paulo com tabelas que permitem consulta rápida por município 
 
 
 ---
