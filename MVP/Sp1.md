@@ -53,5 +53,4 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-
+- https://www.canva.com/design/DAHHfRGoQwY/UzOClpeROvX0jlG-QuI8qw/edit
