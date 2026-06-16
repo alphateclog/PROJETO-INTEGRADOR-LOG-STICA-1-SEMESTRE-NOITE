@@ -1,1 +1,3 @@
-## Código da programação: [Cópia_de_Untitled.ipynb](https://github.com/user-attachments/files/28984833/Copia_de_Untitled.ipynb)[Uploading Cópia_de_Untitled.ipynb…]()
+## Código da programação: [codigo python.ipynb](https://github.com/user-attachments/files/28984868/codigo.python.ipynb)
+
+[Alphatec relatório.pdf](https://github.com/user-attachments/files/28984858/Alphatec.relatorio.pdf)
