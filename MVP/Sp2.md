@@ -10,9 +10,8 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **Persona 1:** gestor público, analista  
+- **Persona 2:** coodernação da faculdade
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
