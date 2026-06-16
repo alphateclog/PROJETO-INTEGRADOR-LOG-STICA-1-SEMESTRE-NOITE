@@ -53,16 +53,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | status | Sprint |
 | :------: | :------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :--------: |
-| 1    | Alta       | Como analista, quero filtrar os dados de exportação e importação para trabalhar com as informações relevantes                                                    | concluido  | 1      |
-| 2    | Alta       | Como analista, quero organizar os dados por municípios de SP para facilitar consultas regionais                                                                    | concluido | 1      |
-| 3    | Alta       | Como analista, quero comparar São José dos Campos com outras cidades desenvolvidas para entender sua posição                                               | concluido        | 2      |
-| 4   | Alta       | Como analista, quero saber quais municipios tem aumentado a exportação e importaçõa de produtos específicos                                                | concluido      | 2      |
-| 5    | Alta       | Como analista, quero visualizar a evolução mensal dos dados para identificar padrões de crescimento                                               | concluido       | 2      
-| 6    | Alta       | Como analista, quero saber se a exportação e importação destes municipios tem os produtos diversificados ou são focados em nichos especificos                               | concluido      | 2      |
-| 7    | Alta       | Como analista, quero identificar quais são as principais vias para exportação e importação, como isso pode afetar os custos e a eficiencia logistica                                                | em andamento | 3      |
-| 8    | Alta       | Como analista, quero identificar problemas estratégicos e propor soluções baseadas nos dados                                               | em andamento | 3      |
-| 9    | Alta       | Como usuário final, quero visualizar os dados em um dashboard intuitivo para facilitar a análise                                               | em andamento | 3      |
-| 10   | Alta     | Como analista, quero garantir a qualidade dos dados para evitar erros na entrega final     | em andamento | 3      |
+| 1    | Alta       | Como analista, quero filtrar os dados de exportação e importação para trabalhar com as informações relevantes                                                    | concluído  | 1      |
+| 2    | Alta       | Como analista, quero organizar os dados por municípios de SP para facilitar consultas regionais                                                                    | concluído | 1      |
+| 3    | Alta       | Como analista, quero comparar São José dos Campos com outras cidades desenvolvidas para entender sua posição                                               | concluído        | 2      |
+| 4   | Alta       | Como analista, quero saber quais municipios tem aumentado a exportação e importaçõa de produtos específicos                                                | concluído      | 2      |
+| 5    | Alta       | Como analista, quero visualizar a evolução mensal dos dados para identificar padrões de crescimento                                               | concluído       | 2      
+| 6    | Alta       | Como analista, quero saber se a exportação e importação destes municipios tem os produtos diversificados ou são focados em nichos especificos                               | concluído      | 2      |
+| 7    | Alta       | Como analista, quero identificar quais são as principais vias para exportação e importação, como isso pode afetar os custos e a eficiencia logistica                                                | concluído | 3      |
+| 8    | Alta       | Como analista, quero identificar problemas estratégicos e propor soluções baseadas nos dados                                               | concluído | 3      |
+| 9    | Alta       | Como usuário final, quero visualizar os dados em um dashboard intuitivo para facilitar a análise                                               | concluído | 3      |
+| 10   | Alta     | Como analista, quero garantir a qualidade dos dados para evitar erros na entrega final     | concluído | 3      |
 
 
 
@@ -75,6 +75,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |-------------------|------------|----------|-----------|
 | 01                | 27/04/2026 | concluído  | [MVP](MVP/Sp1.md)  |
 | 02                | 25/05/2026 | concluído  | [MVP](MVP/Sp2.md)  |
-| 03                | 15/06/2026 | a fazer  | [MVP](MVP/Sp3.md)  |
+| 03                | 15/06/2026 | concluído  | [MVP](MVP/Sp3.md)  |
 | Feira de Soluções | 25/06/2026 | a fazer  | [MVP](#)  |
 
