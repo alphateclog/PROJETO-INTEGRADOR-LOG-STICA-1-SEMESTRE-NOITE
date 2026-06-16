@@ -18,39 +18,39 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Sprint |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista, quero filtrar os dados de exportação e importação para trabalhar com as informações relvantes.         | Alta       | 1   |
-| US2 | Como analista, quero organizar os dados por municipios de São Paulo para facilitar consultas regionais.         | Alta      | 1   |
+| US3 | Como analista, quero comparar São José dos Campos com outras cidades desenvolvidas para entender sua posição.         | Alta       | 2   |
+| US4 | Como analista, quero saber quais municipios tem aumentado a exportação e importaçõa de produtos específicos .         | Alta      | 2   |
+| US5 | Como analista, quero visualizar a evolução mensal dos dados para identificar padrões de crescimento.         | Alta       | 2   |
+| US6 | Como analista, quero saber se a exportação e importação destes municipios tem os produtos diversificados ou são focados em nichos especificos.         | Alta      | 2
 
+
+
+   |
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Filtrar e separar os dados do ComexStat dos ultimos 5 anos                       | Concluído|
-| 02     | Criar tabelas focadas apenas nos municípios do estado de São Paulo                           | Concluído |
+| 02    | Realizar comparação de indicadores entre SJC e cidades referência                       | Concluído|
+| 02     | Filtrar e separar os municipios que se destacaram nas importações e exportações                           | Concluído |
+| 02    | Detalhar dados mês a mês dos últimos 5 anos                       | Concluído|
+| 02     | Filtrar os produtos dos muncipios e ver se são diversificados ou não                           | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário consig visualizar as tabelas dos dados filtrados dos ultimos 5 anos do estado de São Paulo.  
-- O sistema deve registrar as tabelas dos dados de exportação e importação dos municipios de São Paulo
-- Métricas coletadas: 
+- O MVP deve permitir que o usuário consiga filtrar e comparar os municipios do estado com a cidade de São José dos Campos.
+- O sistema deve registrar as tabelas de comparação entre os dados mensais extraídos nos ultimos 5 anos.
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP 
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 2 (PO e Team member)
+- Feedback qualitativo: positivo
 
 ---
-
-## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
+- https://github.com/user-attachments/assets/46fa9832-0115-4fd7-96a2-dc7c47eba16e
 
